@@ -1,17 +1,17 @@
 
 export const foodFavObj = [
-  {
-    name: 'Mac',
-    favFood: 'Mac & Cheese'
-  },
+    {
+        name: 'Mac',
+        favFood: 'Mac & Cheese'
+    },
 
-  {
-    name: 'Pat',
-    favFood: 'Pizza'
-  },
+    {
+        name: 'Pat',
+        favFood: 'Pizza'
+    },
 
-  {
-    name: 'Sublime',
-    favFood: 'Subway'
-  }
-]
+    {
+        name: 'Sublime',
+        favFood: 'Subway'
+    }
+];
